@@ -11,4 +11,4 @@
 - 實務練習
 
 #### 課程大綱
-- [1. ](http://mirdex.github.io/DataCrawler_20240325/)
+- [1. 爬蟲基本概念](http://mirdex.github.io/DataCrawler_20240325/1.%20爬蟲基本概念.slides.html)
