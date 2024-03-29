@@ -13,3 +13,4 @@
 #### 課程大綱
 - [1. 爬蟲基本概念](http://mirdex.github.io/DataCrawler_20240325/1.%20爬蟲基本概念.slides.html)
 - [1-1. 補充 - 字串常搭配使用函數](http://mirdex.github.io/DataCrawler_20240325/1-1.%20補充%20-%20字串常搭配使用函數_Q.slides.html)
+- [2. 擷取網路資料](http://mirdex.github.io/DataCrawler_20240325/2.%20擷取網路資料_Q.slides.html)
