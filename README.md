@@ -17,3 +17,4 @@
 - [3. 爬取靜態網頁](http://mirdex.github.io/DataCrawler_20240325/3.爬取靜態網頁_Q.slides.html)
 - [4. 淺談正規表達式](http://mirdex.github.io/DataCrawler_20240325/4.%20淺談正規表達式_Q.slides.html)
 - [5. CSS選擇器](http://mirdex.github.io/DataCrawler_20240325/5.%20CSS選擇器_Q.slides.html)
+- [6. HTML 走訪](http://mirdex.github.io/DataCrawler_20240325/6.%20HTML%20走訪_Q.slides.html)
