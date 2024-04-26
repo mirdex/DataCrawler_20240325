@@ -19,3 +19,4 @@
 - [5. CSS選擇器](http://mirdex.github.io/DataCrawler_20240325/5.%20CSS選擇器_Q.slides.html)
 - [6. HTML 走訪](http://mirdex.github.io/DataCrawler_20240325/6.%20HTML%20走訪_Q.slides.html)
 - [7. 實戰練習一](http://mirdex.github.io/DataCrawler_20240325/7.%20實戰練習一_Q.slides.html)
+- [8. JSON資料擷取](http://mirdex.github.io/DataCrawler_20240325/8.%20JSON資料擷取_Q.slides.html)
