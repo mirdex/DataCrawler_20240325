@@ -21,3 +21,4 @@
 - [7. 實戰練習一](http://mirdex.github.io/DataCrawler_20240325/7.%20實戰練習一_Q.slides.html)
 - [8. JSON資料擷取](http://mirdex.github.io/DataCrawler_20240325/8.%20JSON資料擷取_Q.slides.html)
 - [9. XML資料擷取](http://mirdex.github.io/DataCrawler_20240325/9.%20XML資料擷取_Q.slides.html)
+- [10. Selenium](http://mirdex.github.io/DataCrawler_20240325/11.%20Selenium_Q.slides.html)
