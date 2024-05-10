@@ -24,3 +24,4 @@
 - [10. Selenium](http://mirdex.github.io/DataCrawler_20240325/11.%20Selenium_Q.slides.html)
 - [11. 實戰練習二](http://mirdex.github.io/DataCrawler_20240325/11.%20實戰練習二_Q.slides.html)
 - [12. Visualization Introduction](http://mirdex.github.io/DataCrawler_20240325/1.%20Data%20Visualization%20Introduction.slides.html)
+- [13. Matplotlib基礎](http://mirdex.github.io/DataCrawler_20240325/2.%20Matplotlib基礎_Q.slides.html)
