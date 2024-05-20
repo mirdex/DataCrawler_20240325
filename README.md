@@ -27,3 +27,4 @@
 - [13. Matplotlib基礎](http://mirdex.github.io/DataCrawler_20240325/2.%20Matplotlib基礎_Q.slides.html)
 - [14. Matplotlib進階](http://mirdex.github.io/DataCrawler_20240325/3.%20Matplotlib進階_Q.slides.html)
 - [15. 長條圖與直方圖](http://mirdex.github.io/DataCrawler_20240325/4.%20長條圖與直方圖_Q.slides.html)
+- [16. 散佈圖與圓餅圖](http://mirdex.github.io/DataCrawler_20240325/5.%20散佈圖與圓餅圖_Q.slides.html)
